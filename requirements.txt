@@ -4,4 +4,4 @@ djangorestframework==3.10.3
 django-allauth==0.40.0
 django-rest-auth==0.9.5
 django-rest-swagger==2.2.0
-PyYAML==5.1.2
+PyYAML==5.4
